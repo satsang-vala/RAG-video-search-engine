@@ -1,0 +1,14 @@
+# Generated embeddings and outputs
+*.joblib
+prompt.txt
+response.txt
+
+# Original course videos
+Video/
+
+# Generated audio and transcript files
+audios/
+jsons/
+newjsons/
+
+.env

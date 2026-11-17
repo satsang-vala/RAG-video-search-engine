@@ -1,0 +1,14 @@
+# Core data processing and retrieval
+requests
+numpy
+pandas
+scikit-learn
+joblib
+
+# Whisper transcription and PyTorch
+openai-whisper
+torch
+
+# Groq LLM API and environment variables
+groq
+python-dotenv
